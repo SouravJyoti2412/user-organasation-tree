@@ -1,3 +1,5 @@
+
+# user-organasation-tree
 Here’s an organized `README.md` file to guide you on setting up and starting both the Django backend and React frontend projects. This file assumes the following project structure:
 
 
@@ -137,6 +139,4 @@ For better project management, consider using environment variables to store con
 - **CORS Errors**: If you encounter CORS issues, check that the frontend URL is allowed in Django’s CORS settings.
 - **Port Conflicts**: Make sure no other applications are running on ports `8000` (Django) or `3000` (React).
 
----
 
-This README file provides an organized setup guide for both backend and frontend projects. Ensure you have all dependencies installed and each project is configured to interact correctly. Happy coding!
